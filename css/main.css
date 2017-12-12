@@ -1,8 +1,8 @@
-.main-header {
-  height: 100vh;
-
-  background-image: url(/css/<wallpaper2.jpg>);
-  background-position: center center;
+html { 
+  background: url(css/wallpaper2) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
 }
 body {
