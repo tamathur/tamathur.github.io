@@ -1,3 +1,10 @@
+.main-header {
+  height: 100vh;
+
+  background-image: url(/tamathur.github.io<wallpaper1.jpg>);
+  background-position: center center;
+  background-size: cover;
+}
 body {
     margin: 60px auto;
     width: 70%;
